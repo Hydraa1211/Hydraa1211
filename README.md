@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akhelesh A
 - 👀 I’m an 4th year B.Tech CSE- Cyber Security Student
--- 📫 we can connect through mail at akhelesh12112002@gmail.com
+-  📫 we can connect through mail at akhelesh12112002@gmail.com
 
 
 <!---
